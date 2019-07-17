@@ -3,6 +3,8 @@ SERVER_NAME = ""
 SERVER_IP = "10.20.0.1"
 SERVER_PORT = 8000
 
+DEMO_MODE = False
+
 # gitlab config
 GITLAB_URL = "http://gitlab.example.com"
 # GITLAB_TOKEN = "_Tp8rPh73nEiEK-_tZHV"
